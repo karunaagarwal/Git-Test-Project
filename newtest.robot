@@ -1,2 +1,2 @@
 ***Test Cases***
-Log to console  bye bye
+Log to console  tata
